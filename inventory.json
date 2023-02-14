@@ -1,0 +1,86 @@
+{
+  "category": [
+    {
+      "id": "2",
+      "name": "Pizza",
+      "description": "qqqqqqqq",
+      "status": "active"
+    },
+    {
+      "name": "Italian",
+      "description": "rreeref ccvfcvcv ",
+      "status": true,
+      "id": "4"
+    },
+    {
+      "id": "6",
+      "name": "Pasta",
+      "description": "ordered from Dominos",
+      "status": "active"
+    },
+    {
+      "name": "Pasta",
+      "description": "Ordered From MacDonal",
+      "status": true,
+      "id": "8"
+    },
+    {
+      "name": "Pizza",
+      "description": "Delicisous",
+      "status": true,
+      "id": "9"
+    },
+    {
+      "id": "11",
+      "name": "Pasta",
+      "description": "drbvbbvfbvfb ",
+      "status": "active"
+    },
+    {
+      "id": "12",
+      "name": "Pasta",
+      "description": "nbmmn",
+      "status": "active"
+    },
+    {
+      "name": "Pasta",
+      "description": "Ordered From MacDonal",
+      "status": true,
+      "id": "8"
+    }
+  ],
+  "itemlist": [
+    {
+      "name": "ferferff",
+      "category": "Fruits",
+      "description": "dffrfrefre",
+      "price": "100",
+      "status": true,
+      "id": "1"
+    },
+    {
+      "name": "rererere",
+      "category": "Dairy",
+      "description": "erere",
+      "price": "33",
+      "status": true,
+      "id": "3QvTCoH"
+    },
+    {
+      "name": "cheese",
+      "category": "Dairy",
+      "description": "Amul Product",
+      "price": "500",
+      "status": true,
+      "id": "WkLWKjs"
+    },
+    {
+      "name": "dfdf",
+      "category": "Grains",
+      "description": "fdsffdfg",
+      "price": "30",
+      "status": true,
+      "id": "F41Tw33"
+    }
+  ]
+}
