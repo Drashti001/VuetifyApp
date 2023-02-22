@@ -1,19 +1,19 @@
 {
   "category": [
     {
-      "id": "2",
-      "name": "Pizza",
-      "description": "qqqqqqqq",
+      "id": 1,
+      "name": "Maggie",
+      "description": "All time Favourite",
       "status": "active"
     },
     {
       "name": "Italian",
       "description": "rreeref ccvfcvcv ",
       "status": true,
-      "id": "4"
+      "id": 2
     },
     {
-      "id": "6",
+      "id": 3,
       "name": "Pasta",
       "description": "ordered from Dominos",
       "status": "active"
@@ -22,22 +22,22 @@
       "name": "Pasta",
       "description": "Ordered From MacDonal",
       "status": true,
-      "id": "8"
+      "id": 4
     },
     {
       "name": "Pizza",
       "description": "Delicisous",
       "status": true,
-      "id": "9"
+      "id": 5
     },
     {
-      "id": "11",
+      "id": 6,
       "name": "Pasta",
       "description": "drbvbbvfbvfb ",
       "status": "active"
     },
     {
-      "id": "12",
+      "id": 7,
       "name": "Pasta",
       "description": "nbmmn",
       "status": "active"
@@ -46,7 +46,13 @@
       "name": "Pasta",
       "description": "Ordered From MacDonal",
       "status": true,
-      "id": "8"
+      "id": 8
+    },
+    {
+      "name": "Dairy-products",
+      "description": "dfbfbghrtbgfbvj",
+      "status": true,
+      "id": 12
     }
   ],
   "itemlist": [
@@ -56,7 +62,7 @@
       "description": "dffrfrefre",
       "price": "100",
       "status": true,
-      "id": "1"
+      "id": 1
     },
     {
       "name": "rererere",
@@ -64,7 +70,7 @@
       "description": "erere",
       "price": "33",
       "status": true,
-      "id": "3QvTCoH"
+      "id": 2
     },
     {
       "name": "cheese",
@@ -72,7 +78,7 @@
       "description": "Amul Product",
       "price": "500",
       "status": true,
-      "id": "WkLWKjs"
+      "id": 3
     },
     {
       "name": "dfdf",
@@ -80,7 +86,31 @@
       "description": "fdsffdfg",
       "price": "30",
       "status": true,
-      "id": "F41Tw33"
+      "id": 4
+    },
+    {
+      "name": "Apple",
+      "category": "Fruits",
+      "description": "Good for health",
+      "price": "100",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Pizza",
+      "category": "Oils & Solid Fats",
+      "description": "Italian",
+      "price": "600",
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "pasta",
+      "category": "Oils & Solid Fats",
+      "description": "Ordered from Dominos",
+      "price": "400",
+      "status": true,
+      "id": 7
     }
   ]
 }

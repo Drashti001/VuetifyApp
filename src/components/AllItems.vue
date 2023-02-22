@@ -3,7 +3,7 @@
     <template v-slot:top>
         <div class="d-flex justify-center ma-4">
             <v-col sm="12">
-                <v-alert dense type="success" v-model="alert" elevation="16" style="opacity: 0.8" border="top" transition="scale-transition" max-height="150" dismissible>
+                <v-alert dense type="primary" v-model="alert" elevation="16" style="opacity: 0.8" border="top" transition="scale-transition" max-height="150" dismissible>
                     {{ message }}
                 </v-alert>
             </v-col>

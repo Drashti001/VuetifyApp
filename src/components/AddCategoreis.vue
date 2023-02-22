@@ -2,6 +2,7 @@
   <v-form
       ref="form"
       v-model="valid"
+      
       lazy-validation
     >
   <div class="d-flex justify-center ma-4">
@@ -23,7 +24,7 @@
   </div>
     
   <v-toolbar>
-    <v-toolbar-title>ALL ITEM CAREGORIES</v-toolbar-title>
+    <v-toolbar-title>ADD NEW CAREGORIES</v-toolbar-title>
     <v-spacer></v-spacer>
     <router-link to="/allcg" style="float: right"
         ><v-btn color="primary" dark class="mb-2 mx-3" >
